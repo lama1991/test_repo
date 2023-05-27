@@ -80,6 +80,11 @@ class FamilyController extends baseController{
         }
 
     }
+    public function sayhi()
+    {
+        echo "hi";
+    }
+
 
 
 }
